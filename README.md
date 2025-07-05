@@ -73,4 +73,8 @@ ATS поможет вам:
 - **Битрейт**: `192`
 - **Длительность чанка**: `50`
 - **Папка для чанков**: `C:\Output\Chunks`
-- **Таймкоды**:
+- **Таймкоды**:  ```
+     0:00 Cartoon, Jéja - Why We Lose
+     03:28 Cartoon, Jéja - C U Again ft. Mikk Mäe
+     07:15 Another Track
+     ```
